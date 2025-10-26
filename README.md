@@ -1,7 +1,7 @@
 # UD01 - Programación de Servicios y Procesos
 ## Uso de estructuras dinámicas de datos: Pilas y Colas
 
-**Autor:** [Tu nombre]  
+**Autor:** Luis Capel 
 **Curso:** 2º DAM 2025/26  
 
 ### Ejercicios:
